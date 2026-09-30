@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "384190966837",
+    "project_id": "ferrer-advmobprog-frebase",
+    "storage_bucket": "ferrer-advmobprog-frebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384190966837:android:a99795918e469add8ed57c",
+        "android_client_info": {
+          "package_name": "com.example.ferrer_advmobpro2627"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiDzaDzmKLS2fOW30cz8BI0SdHGEF6K08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
